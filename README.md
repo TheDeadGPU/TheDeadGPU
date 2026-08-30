@@ -6,10 +6,10 @@ I'm a full-stack software developer based in New Jersey, specializing in buildin
 
 ### 💻 Tech Stack & Tools
 
-* **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Zustand, WebGL (Live2D Cubism)
+* **Frontend:** React, Next.js (App Router), TypeScript, Tailwind CSS, Zustand, WebGL
 * **Backend:** Python, Django REST Framework, PostgreSQL, Supabase, Prisma, GraphQL
 * **DevOps & Infrastructure:** Docker, Docker Compose, Nginx, PM2, Ubuntu Linux VPS, Self-Hosted GitHub Actions CI/CD
-* **AI & Integration:** Ollama (Local LLMs), Deepgram TTS, Google Gemini APIs, Custom RAG pipelines
+* **AI & Integration:** Ollama (Local LLMs), Deepgram TTS, Google Gemini APIs, Digital Ocean LLMs (Serverless Inference)
 
 ---
 
