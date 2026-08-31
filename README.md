@@ -15,6 +15,6 @@ I'm a full-stack software developer based in New Jersey, specializing in buildin
 
 ### 🚀 Recent Projects
 
-* **[Hustle.app](https://www.google.com/search?q=https://hustle.app):** An AI-powered business blueprint and pitch generation suite built with Next.js, Supabase, Stripe, and multi-model AI fallbacks.
+* **[Hustle.app](https://hustle.app):** An AI-powered business blueprint and pitch generation suite built with Next.js, Supabase, Stripe, and multi-model AI fallbacks.
 * **AnonX:** A pseudonymous social media ecosystem with custom database schemas, S3 media handling, and robust community moderation tools.
 * **TenderQuery:** A specialized Shopify application leveraging the GraphQL Admin API and Prisma to optimize product management and e-commerce workflows.
